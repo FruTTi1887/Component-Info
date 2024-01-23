@@ -3,8 +3,8 @@ import math
 import subprocess
 import requests
 
-TOKEN = "6228036250:AAG0ZyujGTT9nGcO7RP0oVRD2V8uWNdZcuk"
-chat_id = "6004481260"
+TOKEN = "YOUR_BOT_TOKEN"
+chat_id = "YOUR_CHAT_ID"
 
 
 computer = wmi.WMI()
